@@ -1,0 +1,4 @@
+
+
+    $('.js-range-slider').ionRangeSlider();
+
